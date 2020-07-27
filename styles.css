@@ -1,0 +1,45 @@
+body {
+  background-color:pink;
+  text-align:center;
+  padding-top:10%;
+}
+
+.formclass {
+  margin-top:5%;
+}
+
+.form-control-lg {
+  width:50%;
+  margin:2% auto;
+
+}
+
+.output-para {
+  color:#b83b5e;
+  font-size:3rem;
+  font-weight:500;
+  margin-top:3%;
+}
+
+h6 {
+  margin-bottom:1%;
+}
+
+@media (max-width:1028px) {
+
+  h1 {
+    margin-top:20%;
+  }
+  .formclass {
+    margin-top:15%;
+  }
+
+  .form-control-lg {
+    margin:5% auto;
+  }
+
+  .output-para {
+    font-size:2rem;
+  }
+
+}
